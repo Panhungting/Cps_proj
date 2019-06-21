@@ -1,0 +1,9 @@
+package com.cps.manager.service;
+
+import com.cps.manager.vo.ResmUser;
+
+public interface SampleService {
+	
+	public void addUser(ResmUser resmUser);
+	
+}

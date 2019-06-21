@@ -1,0 +1,6 @@
+package com.cps.manager.dao;
+
+public interface TResmUserMapper {
+	
+	public int insertUser(UserEntity userentity);
+}
